@@ -6,4 +6,4 @@
 
 
 ### 📬 Connect with me
-https://linkedin.com/in/john-christian-rodis-07b812422 | [Portfolio](your-link)
+[LinkedIn](https://linkedin.com/in/john-christian-rodis-07b812422) | [Portfolio](your-link)
