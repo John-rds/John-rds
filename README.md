@@ -1,7 +1,7 @@
 # Hi there, I'm John Christian Rodis 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning C# and other programming language
+- I'm an aspiring software engineer
+- I’m currently learning C# and other programming language
 
 
 
