@@ -1,7 +1,10 @@
 # Hi there, I'm John Christian Rodis 👋
 
 - I'm an aspiring software engineer
-- I’m currently learning C# and other programming language
+- I’m currently learning C#
+
+- My Programming Languages:
+- C#, Java, Python, SQL, Javascript
 
 
 
