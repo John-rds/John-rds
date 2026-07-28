@@ -9,4 +9,4 @@
 
 
 ### 📬 Connect with me
-[LinkedIn](https://linkedin.com/in/john-christian-rodis-07b812422) | [Portfolio](your-link)
+[LinkedIn](https://linkedin.com/in/john-christian-rodis-07b812422) | [About Me]([your-link](https://john-rds.github.io/About_me/))
