@@ -3,13 +3,13 @@
 - I'm an aspiring software engineer
 - I’m currently learning C#
 
-- My Programming Languages:
+# My Programming Languages:
 - C#, Java, Python, MySQL, Javascript, PHP, HTML5
 
-- My Frameworks:
+# My Frameworks:
 - Bootstrap
 
-- My Networking Skills:
+# My Networking Skills:
 - Cisco Entry Level Routing and Switching (CCNA1)
 
 
