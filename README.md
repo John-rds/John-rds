@@ -4,7 +4,10 @@
 - I’m currently learning C#
 
 - My Programming Languages:
-- C#, Java, Python, SQL, Javascript
+- C#, Java, Python, MySQL, Javascript, PHP, HTML5
+
+- My Frameworks:
+- Bootstrap
 
 
 
