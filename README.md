@@ -9,6 +9,9 @@
 - My Frameworks:
 - Bootstrap
 
+- My Networking Skills:
+- Cisco Entry Level Routing and Switching (CCNA1)
+
 
 
 ### 📬 Connect with me
